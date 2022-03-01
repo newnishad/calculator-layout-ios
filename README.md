@@ -1,7 +1,7 @@
 
 ## Portrait
 
-![Portrait](Documentation/Portrait.png)
+![Portrait](Screenshots/Portrait.png)
 
 ## Landscape
-![Landscape](Documentation/Landscape.png)
+![Landscape](Screenshots/Landscape.png)
